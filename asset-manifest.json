@@ -1,0 +1,16 @@
+{
+  "main.css": "/rickandmorty/static/css/main.de52702d.chunk.css",
+  "main.js": "/rickandmorty/static/js/main.579ea6d6.chunk.js",
+  "main.js.map": "/rickandmorty/static/js/main.579ea6d6.chunk.js.map",
+  "runtime~main.js": "/rickandmorty/static/js/runtime~main.a1dd2e89.js",
+  "runtime~main.js.map": "/rickandmorty/static/js/runtime~main.a1dd2e89.js.map",
+  "static/css/2.daff3a7d.chunk.css": "/rickandmorty/static/css/2.daff3a7d.chunk.css",
+  "static/js/2.b3de0af4.chunk.js": "/rickandmorty/static/js/2.b3de0af4.chunk.js",
+  "static/js/2.b3de0af4.chunk.js.map": "/rickandmorty/static/js/2.b3de0af4.chunk.js.map",
+  "index.html": "/rickandmorty/index.html",
+  "precache-manifest.f41c026a075f01218796300bb87ce115.js": "/rickandmorty/precache-manifest.f41c026a075f01218796300bb87ce115.js",
+  "service-worker.js": "/rickandmorty/service-worker.js",
+  "static/css/2.daff3a7d.chunk.css.map": "/rickandmorty/static/css/2.daff3a7d.chunk.css.map",
+  "static/css/main.de52702d.chunk.css.map": "/rickandmorty/static/css/main.de52702d.chunk.css.map",
+  "static/media/logo.png": "/rickandmorty/static/media/logo.42d6efdb.png"
+}
